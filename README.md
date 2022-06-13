@@ -19,6 +19,6 @@ The pagination is done server side.
 
 I’m excited to work with useReducer again.
 
-##::AFTER
+## ::AFTER
 
 #### what stood out.
