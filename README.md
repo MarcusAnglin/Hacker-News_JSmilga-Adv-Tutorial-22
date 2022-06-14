@@ -22,3 +22,5 @@ I’m excited to work with useReducer again.
 ## ::AFTER
 
 #### what stood out.
+
+This was a pretty straight forward app, the only thing that stood out was using a switch statement in useReducer instead of a series of if statements. It also was nice to get a refresher on useReducer since it hasn't been used in a while.
